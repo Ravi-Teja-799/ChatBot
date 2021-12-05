@@ -1,4 +1,4 @@
-let chatbotMsgList = ["Hi", "Hey", "Good Morning", "Good Evening", "How can I help you?", "Thank You"];
+let chatbotMsgList = ["Hi", "Hey", "Good Morning", "Good Evening", "How can I help you?", "Thank You", "How are You];
 
 let chatContainerEl = document.getElementById('chatContainer');
 let userInputEl = document.getElementById("userInput");
